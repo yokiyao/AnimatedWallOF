@@ -1,0 +1,4 @@
+ofxDSHapVideoPlayer
+ofxGui
+ofxNetwork
+ofxXmlSettings

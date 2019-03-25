@@ -1,0 +1,8 @@
+.vs
+obj/
+*.avi
+icon.rc
+*.mp4
+*.exp
+*.iobj
+*.ipdb
